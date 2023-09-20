@@ -1,0 +1,8 @@
+nav a {
+  margin-right: 20px;
+}
+nav a.active {
+  color: aquamarine;
+  background-color: brown;
+  padding: 4px;
+}
